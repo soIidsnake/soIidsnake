@@ -16,6 +16,7 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=bubbles&color=blue&style=plastic"
+<br><br><img src="https://komarev.com/ghpvc/?username=soIidsnake&label=scallywags&color=E4007F&base=0&style=plastic">
+
 </p>
 <a href="https://rentry.co/fleshydesires">rentry</a> 
