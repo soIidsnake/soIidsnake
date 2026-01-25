@@ -22,5 +22,5 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 
 
 <img
-src="https://file.garden/Zlc_rlwZaj3gLlZ-/ezgif-1-ec667ee0cf.gif">
+src="https://pixelbank.neocities.org/stamp/259.gif">
 </p>
