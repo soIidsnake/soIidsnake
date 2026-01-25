@@ -18,3 +18,4 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fuyushirono&label=bubbles&color=blue&style=plastic"
 </p>
+<a href="https://rentry.co/fleshydesires">rentry</a> 
