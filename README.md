@@ -37,3 +37,5 @@ src="https://pixelbank.neocities.org/stamp/259.gif">
 src="https://adriansblinkiecollection.neocities.org/stamps/b59.png"> </a> **<--click for EPIC surprise**
 <img
 src="https://adriansblinkiecollection.neocities.org/buttons/b15.gif">
+<img
+src="https://64.media.tumblr.com/44c5bc32d36a67a3b98bb51742b27da8/tumblr_pbdpwqwNC51xz2nuuo7_100.png">
