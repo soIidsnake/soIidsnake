@@ -17,4 +17,10 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 <br><br><img src="https://komarev.com/ghpvc/?username=soIidsnake&label=scallywags&color=E4007F&base=0&style=plastic">
 
 </p>
+<p align="center">
 <a href="https://rentry.co/fleshydesires">rentry</a> 
+
+
+<img
+src="https://file.garden/Zlc_rlwZaj3gLlZ-/ezgif-1-ec667ee0cf.gif">
+</p>
