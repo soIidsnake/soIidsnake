@@ -33,8 +33,8 @@ src="https://pixelbank.neocities.org/xs/5.gif">
 src="https://pixelbank.neocities.org/stamp/419.gif">
 <img
 src="https://pixelbank.neocities.org/stamp/259.gif">
-**-->**<a href="https://lomando.com/topd"><img
-src="https://adriansblinkiecollection.neocities.org/stamps/b59.png"> </a> **<--click for EPIC surprise**
+<a href="https://lomando.com/topd"><img
+src="https://adriansblinkiecollection.neocities.org/stamps/b59.png"> </a> 
 <img
 src="https://adriansblinkiecollection.neocities.org/buttons/b15.gif">
 <img
