@@ -35,3 +35,5 @@ src="https://pixelbank.neocities.org/stamp/419.gif">
 src="https://pixelbank.neocities.org/stamp/259.gif">
 **-->**<a href="https://lomando.com/topd"><img
 src="https://adriansblinkiecollection.neocities.org/stamps/b59.png"> </a> **<--click for EPIC surprise**
+<img
+src="https://adriansblinkiecollection.neocities.org/buttons/b15.gif">
