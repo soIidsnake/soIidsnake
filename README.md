@@ -20,7 +20,8 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 <p align="center">
 <a href="https://rentry.co/fleshydesires">rentry</a> 
 
-<p>
+
+<img
+src="https://pixelbank.neocities.org/stamp/419.gif">
 <img
 src="https://pixelbank.neocities.org/stamp/259.gif">
-</p>
