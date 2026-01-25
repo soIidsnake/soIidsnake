@@ -19,7 +19,8 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 </p>
 <p align="center">
 <a href="https://rentry.co/fleshydesires">rentry</a> 
-
+<img
+src="https://pixelbank.neocities.org/xs/5.gif">
 
 <img
 src="https://pixelbank.neocities.org/stamp/419.gif">
