@@ -6,12 +6,15 @@
 
 
 <p align="center">
-<code style="color : poo">I farted</code><br><br>
+<code style="color : poo">100% effort github page</code><br><br>
 
 
 <img
 src="https://pixelbank.neocities.org/div/purple/74.gif">
 </p>
+
+
+
 
 <p align="center">
 <br><br><img src="https://komarev.com/ghpvc/?username=soIidsnake&label=scallywags&color=DCBEFE&base=0&style=plastic">
@@ -22,7 +25,11 @@ src="https://pixelbank.neocities.org/div/purple/74.gif">
 <img
 src="https://pixelbank.neocities.org/xs/5.gif">
 
-<img
+
+
+
+
+ <img
 src="https://pixelbank.neocities.org/stamp/419.gif">
-<img
+ <img
 src="https://pixelbank.neocities.org/stamp/259.gif">
