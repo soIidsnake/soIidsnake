@@ -1,8 +1,6 @@
 <p align="center">
 
-<img
-src="https://pixelbank.neocities.org/div/purple/74.gif">
-</p>
+
 <img src="https://file.garden/Zlc_rlwZaj3gLlZ-/Untitled99_20260125185423.png">
 </p>
 
