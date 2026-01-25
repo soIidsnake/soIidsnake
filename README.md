@@ -29,7 +29,9 @@ src="https://pixelbank.neocities.org/xs/5.gif">
 
 
 
- <img
+<img
 src="https://pixelbank.neocities.org/stamp/419.gif">
- <img
+<img
 src="https://pixelbank.neocities.org/stamp/259.gif">
+<img
+src="https://adriansblinkiecollection.neocities.org/stamps/b59.png"> **<-- click for EPIC surprise**
