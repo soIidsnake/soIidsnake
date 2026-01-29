@@ -51,4 +51,4 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88eb9f6a-c87c-4bb
 <img src="https://file.garden/Zlc_rlwZaj3gLlZ-/570bf7900c9a435476a571e6157c758b.jpg">
 
 <img 
-src="https://tenor.com/bmhn8.gif">
+src="https://file.garden/Zlc_rlwZaj3gLlZ-/kaguya-boom.gif">
