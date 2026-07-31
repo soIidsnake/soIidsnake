@@ -6,10 +6,7 @@
 
 
 <p align="center">
-<code style="color : poo">100% effort github page</code><br><br>
-
-
-
+<code style="color : poo">100% effort github page</code><br>
 
 
 <p align="center">
