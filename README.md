@@ -18,7 +18,7 @@
 
 </p>
 <p align="center">
-<a href="https://rentry.co/fleshydesires">rentry</a> 
+
 <img
 src="https://pixelbank.neocities.org/xs/5.gif">
 
