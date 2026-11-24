@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<br><br><img src="https://komarev.com/ghpvc/?username=soIidsnake&label=scallywags&color=DCBEFE&base=0&style=plastic">
+<br><br><img src="https://komarev.com/ghpvc/?username=soIidsnake&label=scallywags&color=FF961E&base=0&style=plastic">
 
 
 
