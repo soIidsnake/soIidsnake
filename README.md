@@ -1,5 +1,10 @@
 <p align="center">
 
+<img src="https://64.media.tumblr.com/40f809eb03fd3b1734cc27d468512819/3d37e303c0e83acb-3a/s1280x1920/131793a36f25518d05755d8a76da493375148233.pnj" width="500">
+</p>
+
+<p align="center">
+
 
 <img src="https://file.garden/Zlc_rlwZaj3gLlZ-/Untitled78_20261125060556.png" width="500">
 </p>
@@ -21,8 +26,10 @@
 </p>
 <p align="center">
 
-<img
-src="https://pixelbank.neocities.org/xs/5.gif">
+<p align="center">
+
+<img src="https://64.media.tumblr.com/40f809eb03fd3b1734cc27d468512819/3d37e303c0e83acb-3a/s1280x1920/131793a36f25518d05755d8a76da493375148233.pnj" width="500">
+</p>
 
 
 
