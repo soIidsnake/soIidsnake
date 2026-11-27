@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-heavy dni freak circus fans
+
+*"Today, I killed mother. Or maybe it was yesterday."*
+
+
 </p>
 
 
